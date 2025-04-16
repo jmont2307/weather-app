@@ -13,3 +13,17 @@ Thumbs.db
 # macOS specific files
 .Spotlight-V100
 .Trashes
+
+# Node.js 
+node_modules/
+dist/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production

@@ -24,6 +24,9 @@ A weather dashboard application that allows users to search for cities and view 
   - TypeScript
   - OpenWeather API
 
+- Deployment:
+   - Render: Used for hosting the application and managing environment variables
+
 ## Installation
 
 1. Clone the repository

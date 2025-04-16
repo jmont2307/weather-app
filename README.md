@@ -59,11 +59,23 @@ This application can be deployed to Render by following these steps:
 4. Set the build command to: `npm install && npm run build`
 5. Set the start command to: `npm start`
 
-## Video Link
+## Screenshots and Live Demo
 
-willPutHere.com
+### Live Demo
+Check out the live application here: [Weather App](https://weather-app-blxz.onrender.com/)
+
+### Screenshots
+#### Current Weather View
+![Current Weather View](screenshots/weather1.png)
+
+#### 5-Day Forecast
+![5-Day Forecast](screenshots/vail.png)
+
+#### Responsive Design
+![Render](screenshots/render.png)
 
 ## Credits
+
 
 This project was created with assistance from:
 - Online Learning Assistant

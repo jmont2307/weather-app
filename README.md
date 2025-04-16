@@ -59,9 +59,12 @@ This application can be deployed to Render by following these steps:
 4. Set the build command to: `npm install && npm run build`
 5. Set the start command to: `npm start`
 
-## Screenshots
+## Credits
 
-[Add screenshots here]
+This project was created with assistance from:
+- Online Learning Assistant
+- Claude AI
+- My friend Joe
 
 ## License
 
